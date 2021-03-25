@@ -1,6 +1,6 @@
 {
   "name": "@sametcelikbicak/npm-test",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "this is npm package testing",
   "main": "index.js",
   "scripts": {
