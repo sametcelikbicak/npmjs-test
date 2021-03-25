@@ -1,3 +1,5 @@
+[![NPM Publish](https://github.com/sametcelikbicak/npmjs-test/actions/workflows/npm-publish.yml/badge.svg?branch=master)](https://github.com/sametcelikbicak/npmjs-test/actions/workflows/npm-publish.yml)
+
 Step 1: Create a folder
 Step 2: Run "npm init" command under that folder
 Step 3: Create your main js file
