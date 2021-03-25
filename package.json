@@ -1,6 +1,6 @@
 {
   "name": "@sametcelikbicak/npm-test",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "this is npm package testing",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
   "author": "Samet ÇELİKBIÇAK",
   "license": "ISC",
   "publishConfig": {
-   "access": "public"
+    "access": "public"
   }
 }
